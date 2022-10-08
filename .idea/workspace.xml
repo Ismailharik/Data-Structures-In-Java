@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ca68a91f-e09f-4eba-a10e-a2fa6cd6cdee" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Data-Structures-In-Java/Data-Structures-In-Java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/leetcode/DNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/leetcode/DoubleLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data-Structures-In-Java" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Structures-In-Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/leetcode/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +108,7 @@
       <workItem from="1665146036479" duration="1982000" />
       <workItem from="1665156665376" duration="2350000" />
       <workItem from="1665213385192" duration="21296000" />
-      <workItem from="1665247552009" duration="2005000" />
+      <workItem from="1665247552009" duration="12784000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,5 @@
 package org.example.leetcode;
 
-import org.example.leetcode.Heap;
-
-import org.example.leetcode.Stack;
-
 
 public class Main {
     public  static void main(String[] args) {
@@ -39,10 +35,37 @@ public class Main {
         stack.node = stack.push(stack.node,2);
         stack.node = stack.push(stack.node,3);
         stack.node = stack.push(stack.node,4);
-        linkedList.displayNodes(stack.node);
-        stack.node = stack.pop(stack.node);
-        System.out.println("AFTER POP FROM THE STACK");
-        linkedList.displayNodesRecursively(stack.node);
+//        linkedList.displayNodes(stack.node);
+//        stack.node = stack.pop(stack.node);
+//        System.out.println("AFTER POP FROM THE STACK");
+//        linkedList.displayNodesRecursively(stack.node);
+        DoubleLinkedList doubleLinkedList = new DoubleLinkedList();
+        System.out.println("ADD IN THE BEGIN");
+        doubleLinkedList.addStart(doubleLinkedList.listD, 1);
+        doubleLinkedList.addStart(doubleLinkedList.listD, 2);
+        doubleLinkedList.addStart(doubleLinkedList.listD, 3);
+        //each new number will be added in Beginning of the list like it's the first One :  3 -> 2 ->1
+        System.out.println("ADD IN THE END");
+        doubleLinkedList.addEnd(doubleLinkedList.listD, 4);
+        doubleLinkedList.addEnd(doubleLinkedList.listD, 5);
+        doubleLinkedList.addEnd(doubleLinkedList.listD, 6);
+        //each new number will be added in the end of the list :  3 -> 2 ->1 4 -> 5 -> 6
+        //System.out.println(doubleLinkedList.listD.end.prev.data);
+        System.out.println("DISPLAY DATA FROM THE END ");
+        doubleLinkedList.displayEnd(doubleLinkedList.listD);
+
+        System.out.println("DISPLAY DATA FROM THE BEGIN");
+        doubleLinkedList.displayStart(doubleLinkedList.listD);
+
+        System.out.println("DELETE DATA FROM THE BEGIN");
+        doubleLinkedList.deleteStart(doubleLinkedList.listD);
+        doubleLinkedList.displayStart(doubleLinkedList.listD);
+
+        System.out.println(" DELETE DATA FROM THE END");
+        doubleLinkedList.deleteEnd(doubleLinkedList.listD);
+        doubleLinkedList.displayStart(doubleLinkedList.listD);
+
+//        doubleLinkedList.displayStart(doubleLinkedList.dNode.);
 
     }
 

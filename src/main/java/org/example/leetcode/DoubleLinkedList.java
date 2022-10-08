@@ -1,6 +1,9 @@
 package org.example.leetcode;
 
 public class DoubleLinkedList {
+    // Mention that  : for making Stack FIFO with double linked list you should use addStart with deleteEnd or the inverse
+    // Mention that  : for making Heap LIFO ( Pile in French ) with double linked list you
+    // should use addStart with deleteStart or addEnd with deleteEnd
      ListD listD = new ListD();
 
 

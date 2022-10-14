@@ -1,4 +1,4 @@
-package org.example.leetcode;
+package org.example.dataStructures;
 
 public class LinkedList {
         Node node;

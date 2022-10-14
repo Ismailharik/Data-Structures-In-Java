@@ -1,4 +1,4 @@
-package org.example.leetcode;
+package org.example.dataStructures;
 
 public class DNode {// FOR LINKED LIST
     int data ;

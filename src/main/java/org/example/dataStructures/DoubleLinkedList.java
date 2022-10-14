@@ -1,4 +1,4 @@
-package org.example.leetcode;
+package org.example.dataStructures;
 
 public class DoubleLinkedList {
     // Mention that  : for making Stack FIFO with double linked list you should use addStart with deleteEnd or the inverse

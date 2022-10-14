@@ -1,4 +1,4 @@
-package org.example.leetcode;
+package org.example.dataStructures;
 
 public class Stack {// FIFO
     Node node  = null;

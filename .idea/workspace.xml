@@ -6,29 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="ca68a91f-e09f-4eba-a10e-a2fa6cd6cdee" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Data-Structures-In-Java/Data-Structures-In-Java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binaryTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binaryTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binaryTree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/binaryTree/SearchBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/leetCode/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/leetCode/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/leetCode/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/ContainsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/HandlingFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/MatchingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/Parentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/ValidIp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/regularExpression/RegEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/leetCode/reverseLinkedListReferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/Ahmed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/Graphs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graphs/PriorityQuee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/Dequeue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data-Structures-In-Java" beforeDir="false" afterPath="$PROJECT_DIR$/Data-Structures-In-Java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/DNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/DNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/Heap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Palandrom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dataStructures/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/problemSolving/buildString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +58,14 @@
       <recent name="C:\Users\pc\Documents\Mes_Projets\micro-services-techi\Programming-Solving\src\main\java\org\example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.problemSolving" />
       <recent name="org.example.dataStructures.leetCode" />
       <recent name="org.example.dataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HandlingFiles">
-    <configuration name="ContainsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.ContainsMethod" />
+  <component name="RunManager" selected="Application.Dequeue2">
+    <configuration name="Dequeue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.Dequeue" />
       <module name="Programming-Solving" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.HandlingFiles" />
+    <configuration name="Dequeue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.Dequeue2" />
       <module name="Programming-Solving" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.Parentheses" />
+    <configuration name="PriorityQuee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.graphs.PriorityQuee" />
       <module name="Programming-Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.problemSolving.*" />
+          <option name="PATTERN" value="org.example.graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Result" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.Result" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.Test" />
       <module name="Programming-Solving" />
       <extension name="coverage">
         <pattern>
@@ -132,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.problemSolving.test" />
+    <configuration name="reverseLinkedListReferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dataStructures.leetCode.reverseLinkedListReferences" />
       <module name="Programming-Solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.problemSolving.*" />
+          <option name="PATTERN" value="org.example.dataStructures.leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,16 +137,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.HandlingFiles" />
-      <item itemvalue="Application.Parentheses" />
-      <item itemvalue="Application.Result" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.ContainsMethod" />
+      <item itemvalue="Application.Dequeue" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.PriorityQuee" />
+      <item itemvalue="Application.reverseLinkedListReferences" />
+      <item itemvalue="Application.Dequeue2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HandlingFiles" />
-        <item itemvalue="Application.ContainsMethod" />
+        <item itemvalue="Application.Dequeue2" />
+        <item itemvalue="Application.Dequeue" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.reverseLinkedListReferences" />
+        <item itemvalue="Application.PriorityQuee" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +171,13 @@
       <workItem from="1665394878508" duration="2316000" />
       <workItem from="1665426960145" duration="23266000" />
       <workItem from="1665688123432" duration="5567000" />
-      <workItem from="1665737670957" duration="3172000" />
+      <workItem from="1665737670957" duration="16951000" />
+      <workItem from="1665856822851" duration="18901000" />
+      <workItem from="1666086168507" duration="2331000" />
+      <workItem from="1666366817337" duration="16379000" />
+      <workItem from="1666611525446" duration="11311000" />
+      <workItem from="1666813883458" duration="2109000" />
+      <workItem from="1666897872021" duration="1133000" />
     </task>
     <servers />
   </component>

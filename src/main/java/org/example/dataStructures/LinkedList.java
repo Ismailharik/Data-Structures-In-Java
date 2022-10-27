@@ -1,7 +1,7 @@
 package org.example.dataStructures;
 
 public class LinkedList {
-        Node node;
+        public Node node;
     public  Node addNode(Node head,int data){
         Node newNode = new Node(data);
         Node tmp=head;
